@@ -18,3 +18,11 @@ background-color: #0b81ff !important;
 .message__guestCard{
 background-color: #e9e9eb !important;
 }
+.message__input{
+    margin-bottom: 5px;
+    width: 0;
+    height: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+    color: black;
+}

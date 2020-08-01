@@ -10,11 +10,12 @@
   background-color: #e9e9eb;
   width: 90%;
   margin: 20px;
+  border-radius: 30px;
+
 }
 .app__formControl{
   display: flex !important;
   flex-direction: row !important;
- 
 }
 
 .app__input{
@@ -23,4 +24,8 @@
 
 .app__iconButton{
   flex: 0;
+}
+.app__username{
+  text-transform: capitalize;
+  color: lightslategrey;
 }
